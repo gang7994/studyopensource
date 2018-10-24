@@ -9,5 +9,11 @@ git branch
 git fork
 git snapshot
 git clone
-
+git merge
+git fork
+git commit
+git clone 
+git open
+git init
+git gangyoung
 
