@@ -9,4 +9,6 @@ git clone
 git open
 git init
 git gangyoung
+git power
+git holyshit
 
